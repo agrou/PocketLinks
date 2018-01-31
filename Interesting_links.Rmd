@@ -1,0 +1,51 @@
+## Interesting Links to follow/read
+
+
+**Community, diversity and equity**
+
+* Pluralsight course on Employee happiness: https://www.pluralsight.com/courses/boost-productivity-employee-happiness
+* Hire more women in Tech: http://www.hiremorewomenintech.com
+* I am the code: http://www.iamthecode.org/about/
+* Coding with empathy: https://codingwithempathy.com/2017/01/10/rituals-of-shaming-in-the-software-industry/
+
+
+**Data vis**
+
+* Big data vis tools: http://inspire.blufra.me/big-data-visualization-review-of-the-20-best-tools/
+* Bad vis: http://www.businessinsider.com/pie-charts-are-the-worst-2013-6
+
+**R news and community**
+
+* R Views: https://rviews.rstudio.com/
+
+**Real-life data science projects**
+
+* Customer service data: https://www.r-bloggers.com/airbbb-grows-by-sharing-data-scientist-knowledge/
+
+
+**Datasets**
+
+* UCI Machine Learning Repository: https://archive.ics.uci.edu/ml/index.php
+* Ecdat: https://cran.r-project.org/web/packages/Ecdat/Ecdat.pdf
+
+
+**Python**
+
+* Cheatsheet: https://www.datacamp.com/community/blog/python-pandas-cheat-sheet#gs.hPBORGQ
+
+**Online books**
+
+* Bad Science: http://www.bikerman.co.uk/images/audio/science/Badscience/files/basic-html/page1.html
+* Brick by brick: https://doodlealley.com/
+
+**Non-online data science books**
+
+* Visualize This. Nathan Yau: https://www.amazon.com/gp/product/0470944889/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0470944889&linkCode=as2&tag=rsio-20&linkId=YIAXXRDPUGM3KC7I#reader_0470944889
+
+
+**Podcasts**
+
+* Data Framed: https://soundcloud.com/dataframed/dataframed-trailer/sets
+* The effort report: http://effortreport.libsyn.com/
+* Not so standard deviations: http://nssdeviations.com/
+
