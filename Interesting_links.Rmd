@@ -11,8 +11,13 @@
 
 **Data vis**
 
+* https://flowingdata.com/category/tutorials/page/2/
 * Big data vis tools: http://inspire.blufra.me/big-data-visualization-review-of-the-20-best-tools/
 * Bad vis: http://www.businessinsider.com/pie-charts-are-the-worst-2013-6
+* R experiments: https://fronkonstin.com/
+* R Shiny: 
+        * UI source code: https://semantic-ui.com/introduction/getting-started.html
+        * Appsilon showcases: http://appsilondatascience.com/demos
 
 **R news and community**
 
@@ -25,8 +30,10 @@
 
 **Datasets**
 
+* Applied Predictive Modelling: http://appliedpredictivemodeling.com/
 * UCI Machine Learning Repository: https://archive.ics.uci.edu/ml/index.php
 * Ecdat: https://cran.r-project.org/web/packages/Ecdat/Ecdat.pdf
+* Small datasets by statistical method: http://lib.stat.cmu.edu/DASL/
 
 
 **Python**
